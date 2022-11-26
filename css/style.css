@@ -1,0 +1,55 @@
+
+body{
+    background-image: url(/img/backgroundComic.jpg);
+    
+}
+
+h1{
+    font-family: 'Trispace', sans-serif;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+span{
+    font-weight: bold;
+}
+
+
+.logo{
+    
+
+}
+
+.navegador{
+    
+}
+
+.navbar-brand{
+    color: #FFB200;
+}
+
+.slide{
+    height: 500px;
+ 
+}
+
+.carousel-control-prev-icon{
+    background-image: url(/img/direccionslider.png);
+   
+   width: 100px;
+   height: 100px;
+}
+
+.carousel-control-next-icon{
+   background-image: url(/img/direccionslider.png);
+   width: 100px;
+   height: 100px;
+   transform: rotate(180deg);
+}
+.seccion{
+    
+    color: black;
+}
+
